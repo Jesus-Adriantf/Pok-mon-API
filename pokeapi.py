@@ -9,7 +9,7 @@ try:
     datos = repuesta.json()
 
 
-    print(f"\n---------- Abilidad de {nombre_pokemon} ----------")
+    print(f"\n---------- Habilidades de {nombre_pokemon} ----------")
     for abilidad in datos["abilities"]:
         print(abilidad["ability"]["name"])
 
@@ -20,6 +20,6 @@ try:
     print(f"\n---------- Tipo que es {nombre_pokemon} ----------")
     for type in datos["types"]:
         print(type["type"]["name"])
-        
+
 except:
     print(f"No existe este pokemon: {nombre_pokemon}")
