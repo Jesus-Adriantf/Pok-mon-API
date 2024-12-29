@@ -12,4 +12,6 @@
 
 ##### Ejecución:
 
+![imagen](https://github.com/user-attachments/assets/dabea6a5-dca8-491e-93a8-694bdf580005)
+
 ![imagen](https://github.com/user-attachments/assets/6f4ea7f2-c993-4b1c-9eba-628635aafc73)
